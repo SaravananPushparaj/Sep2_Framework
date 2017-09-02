@@ -1,0 +1,10 @@
+2017-09-02 07:06:31 INFO  Scenario_Search:30 - Executing the Testcase  GB_01 Orrder set is 1.0
+2017-09-02 07:06:53 INFO  Scenario_Search:41 - Passed as Actual Result is  Sorry! There are no products to display.Expected Result is Sorry! There are no products to display.
+2017-09-02 07:07:48 INFO  Scenario_Search:30 - Executing the Testcase  GB_01 Orrder set is 1.0
+2017-09-02 07:08:42 INFO  Scenario_Search:41 - Passed as Actual Result is  Sorry! There are no products to display.Expected Result is Sorry! There are no products to display.
+2017-09-02 07:10:08 INFO  Scenario_Search:? - Executing the Testcase  GB_01 Orrder set is 1.0
+2017-09-02 07:10:30 INFO  Scenario_Search:? - Passed as Actual Result is  Sorry! There are no products to display.Expected Result is Sorry! There are no products to display.
+2017-09-02 07:20:40 INFO  Scenario_Search:30 - Executing the Testcase  GB_01 Order set is 1.0
+2017-09-02 07:21:04 INFO  Scenario_Search:41 - Passed as Actual Result is  Sorry! There are no products to display.Expected Result is Sorry! There are no products to display.
+2017-09-02 11:03:00 INFO  Scenario_Search:34 - Executing the Testcase  GB_01 Order set is 1.0
+2017-09-02 11:03:49 INFO  Scenario_Search:52 - Failed as Actual Result is  An error occurredExpected Result is Sorry! There are no products to display.
